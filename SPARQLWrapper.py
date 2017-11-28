@@ -1,5 +1,4 @@
-
-from SPARQLWrapper import /usr/local/lib/python2.7/dist-packagesSPARQLWrapper, JSON
+from SPARQLWrapper import SPARQLWrapper, JSON
 
 sparql = SPARQLWrapper("http://dbpedia.org/sparql")
 
